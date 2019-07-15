@@ -1,0 +1,2 @@
+# trainingexample
+training
